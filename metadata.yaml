@@ -1,0 +1,31 @@
+_repo: Disenchantment_60332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montague, C. E. (Charles Edward)
+    alias: Montague, Charles Edward
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '50899'
+    url: http://www.gutenberg.org/2009/agents/50899
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Edward_Montague
+description: ''
+gutenberg_issued: '2019-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+- GITenberg
+tableOfContents: The vision -- Misgiving -- At Agincourt and Ypres -- Tedium -- The
+  sheep that were not fed -- 'Ware politicians -- "Can't believe a word" -- The duty
+  of lying -- Autumn comes -- Autumn tints in chivalry -- Stars in their courses --
+  Belated boons -- The old age of the war -- Our moderate Satanists -- Any cure? --
+  Fair warning.
+title: Disenchantment
+url: http://www.gutenberg.org/ebooks/60332
